@@ -11,7 +11,6 @@ Brief description of your project.
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
