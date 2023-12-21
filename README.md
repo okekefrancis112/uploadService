@@ -1,6 +1,6 @@
-# Your Project Name
+# Upload Service
 
-Brief description of your project.
+A service that uploads both files and image_url to cloudinary implemented in golang.
 
 ## Table of Contents
 
